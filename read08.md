@@ -1,16 +1,13 @@
 # Controlling the position of elements
-# Layout
 ## Definition and Usage
 > The position property specifies the type of positioning method used for an element (static, relative, absolute, fixed, or sticky).
 # *Block-level elements*
 - A block-level element always starts on a new line and takes up the full width available
-- here is some block elements in the html 
-- <article>    <aside>     <div>     <dl>    <dt>     <figure>     <footer>     <h1>-<h6>    <header>    <hr>     <li>    <main>   <nav>
 ![](https://media.gcflearnfree.org/content/5e82363212da9215e057b928_03_30_2020/block_vs_inline_diagram.png)
 # *Inline Elements*
 - An inline element does not start on a new line and it only takes up as much width as necessary.
-- * - here is some block elements in the html 
-- <a>     <i>    <em>     <var>
+- * - here  some block and inline elements in the html 
+# ![](https://www.differencebetween.com/wp-content/uploads/2018/02/Difference-Between-Block-and-Inline-Elements-fig-1.png)
 # Containing Elements
 ## The size and position of an element are often impacted by its containing block
 # ![](https://www.unm.edu/~tbeach/IT145/week08/images/boxmodel.gif)
