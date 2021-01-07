@@ -1,0 +1,45 @@
+# Error Handling & Debugging
+
+## What is the Order of Execution?
+*Order of execution in JavaScript is dependent on the following components working together to pass and order information.*
+- The Callstack
+- The Event Loop
+- The Task Queue
+- WebAPIs/External Resources
+# ![](https://knowthecode.io/wp-content/uploads/2016/10/order-of-execution-flowchart.jpg)
+# EXECUTION CONTEXT & HOISTING
+Javascript run one thing at one time in the browser ,it is the single thread so it queues the other action, events, function in what is called as the execution stack.
+# ![](https://miro.medium.com/max/700/1*78luWh7gZV3c-99_eLpRWg.png)
+## Execution Context
+- An environment in which the javascript code runs is what form an execution context.
+The execution context decides what particular piece of code has access to variables, functions, objects, etc.
+> *code example*
+# ![](https://miro.medium.com/max/700/1*e-A-jDYmBTIfN2ADj13iaw.png)
+# UNDERSTANDING SCOPE In
+> In the JavaScript language there are two types of scopes:
+- Global Scope
+- Local ScopeLocal Scope
+> Variables defined inside a function are in the local scope. And they have a different scope for every call of that function. This means that variables having the same name can be used in different functions. This is because those variables are bound to their respective functions, each having different scopes, and are not accessible in other functions.
+# UNDERSTANDING ERRORS
+If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code
+Variables defined inside a function are in local scope while variables defined outside of a function are in the global scope. Each function when invoked creates a new scope.
+# Error types: 
+> EvalError: Creates an instance representing an error that occurs regarding the global function eval().
+>RangeError:Creates an instance representing an error that occurs when a numeric variable or parameter is outside of its valid range.
+>ReferenceError:Creates an instance representing an error that occurs when de-referencing an invalid reference.
+>SyntaxError: Creates an instance representing a syntax error.
+>TypeError:Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
+>URIError:Creates an instance representing an error that occurs when encodeURI() or decodeURI() are passed invalid parameters.
+>AggregateError:Creates an instance representing several errors wrapped in a single error when multiple errors need to be reported by an operation, for example by Promise.any().
+>InternalError :Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".
+# HOW TO DEAL WITH ERRORS: 
+## DEBUG THE SCRIPT TO FIX ERRORS
+## HANDLE ERRORS GRACEFULLY 
+# TRY, CATCH, FINALLY:
+> The try...catch statement marks a block of statements to try and specifies a response should an exception be thrown.
+# ![](https://cdn.javascripttutorial.net/wp-content/uploads/2019/12/javascript-try-catch-1-1.png)
+# Execution Context Phases
+> There are mainly two phases of the execution context.
+- Creation
+- Execution
+
