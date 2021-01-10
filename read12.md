@@ -1,0 +1,70 @@
+# <canvas> 
+## difference betwwen `<canvas>` and `<img>`
+- `<canvas >` it doesn't have the src and alt attributes.
+- `<canvas>` element has two attributes: width and height.
+- These are both optional and can  be set using DOM properties.
+# why chart ? 
+- its better to displaying data visually.
+- no one is ever going to press-gang them into use as a layout tool.
+- easier to look at and convey data quickly.
+# ![](https://bashooka.com/wp-content/uploads/2013/06/html5-charts-3.jpg)
+# how to creat chart?
+- Setting up: download Chart.js.
+- Drawing a line chart:create an element in HTML in which Chart.js can draw  the chart.
+## ***example***
+- `<canvas id="buyers" width="600" height="400"></canvas>`
+- `<canvas id="myChart" width="400" height="400"></canvas>`
+- ` <canvas> The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics.
+- Canvas has several methods for drawing paths, boxes, circles, text, and adding images. </canvas>`
+-write a script that will retrieve the context of the canvas.
+## Drawing a pie chart
+`<div id="piechart"></div>`
+
+## Drawing rectangles
+- fillRect(x, y, width, height)
+  - Draws a filled rectangle.
+- strokeRect(x, y, width, height)
+  - Draws a rectangular outline.
+- clearRect(x, y, width, height)
+  - Clears the specified rectangular area, making it fully transparent.
+ ## Drawing paths
+ ***beginPath() :Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.***
+- Path methods :Methods to set different paths for objects.
+1. closePath()
+  - Adds a straight line to the path, going to the start of the current sub-path.
+2. stroke()
+  - Draws the shape by stroking its outline.
+3. fill()
+  - Draws a solid shape by filling the path's content area.
+  ## Arcs
+  - arc(x, y, radius, startAngle, endAngle, anticlockwise)
+  - arcTo(x1, y1, x2, y2, radius)
+ # Applying styles and colors
+
+***brif conclosion***
+| fillStyle = color   | Sets the style used when filling shapes                |
+| ------------------- | ------------------------------------------------------ |
+| strokeStyle = color | Sets the style for shapes' outlines.                   |
+| lineWidth = value   | Sets the width of lines drawn in the future.           |
+| lineCap = type      | Sets the appearance of the ends of lines.              |
+| lineJoin = type     | Sets the appearance of the "corners" where lines meet. |
+| miterLimit = value  | Establishes a limit on the miter when two lines join at a sharp angle, to let you control how thick the junction becomes. |
+| lineDashOffset = value | Specifies where to start a dash array on a line. |
+| getLineDash() | Returns the current line dash pattern array containing an even number of non-negative numbers. |
+| setLineDash(segments) | Sets the current line dash pattern. |
+
+# Drawing text
+![](https://cdn.javascripttutorial.net/wp-content/uploads/2020/10/JavaScript-fillText-textAlign-example.png)
+
+| fillText(text, x, y [, maxWidth]) | Fills a given text at the given (x,y) position. Optionally with a maximum width to draw. |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| strokeText(text, x, y [, maxWidth]) | Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw. |
+| font = value | The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif. |
+| textAlign = value | Text alignment setting. Possible values: start, end, left, right or center. The default value is start. |
+| textBaseline = value | Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, ideographic, bottom. The default value is alphabetic. |
+| direction = value | Directionality. Possible values: ltr, rtl, inherit. The default value is inherit. |
+| measureText() | Returns a TextMetrics object containing the width, in pixels, that the specified text will be when drawn in the current text style. |
+
+
+
+
