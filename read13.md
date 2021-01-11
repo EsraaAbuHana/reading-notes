@@ -1,0 +1,33 @@
+# THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS.
+***Cookies were invented early in the web’s history, and indeed they can be used for persistent local storage of small amounts of data.*** 
+ ## they have three potentially dealbreaking downsides:
+- Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over.
+- Cookies are included with every HTTP request, thereby sending data unencrypted over the internet (unless your entire web application is served over SSL)
+- Cookies are limited to about 4 KB of data — enough to slow down your application , but not enough to be terribly useful.
+# ![](https://techbeacon.scdn7.secure.raxcdn.com/sites/default/files/styles/article_hero_image/public/html5-mobile-app-native-hybrid-pros-cons.jpg?itok=f2OysLvu)
+# A BRIEF HISTORY OF LOCAL STORAGE HACKS BEFORE HTML5
+- In the beginning, there was only Internet Explorer. 
+- Microsoft invented a great many things . One of these things was called DHTML Behaviors, and one of these behaviors was called userData.
+- userData allows web pages to store up to 64 KB of data per domain.Trusted domains can store 10 times that amount. 
+- In 2002, Adobe introduced a feature in Flash 6 that gained the name of “Flash cookies.”  it allows Flash objects to store up to 100 KB of data per domain. 
+- Brad Neuberg developed an early prototype of a Flash-to-JavaScript bridge called AMASS (AJAX Massive Storage System). 
+-  By 2006,Brad rewrote AMASS and integrated it into the popular Dojo Toolkit under the moniker dojox.storage. Flash gives each domain 100 KB of storage “for free.” Beyond that, it prompts the user for each order of magnitude increase in data storage .
+- In 2007, Google launched Gears, an open source browser plugin aimed at providing additional capabilities in browsers.  Gears provides an API to an embedded SQL database based on SQLite. After obtaining permission from the user once, Gears can store unlimited amounts of data per domain in SQL database tables.
+- In the meantime, Brad Neuberg and others continued to hack away on dojox.storage to provide a unified interface to all these different plugins and APIs. By 2009, dojox.storage could auto-detect (and provide a unified interface on top of) Adobe Flash, Gears, Adobe AIR, and an early prototype of HTML5 storage that was only implemented in older versions of Firefox.
+
+- As you survey these solutions, a pattern emerges: all of them are either specific to a single browser, or reliant on a third-party plugin.  have different storage limitations, and present different user experiences. 
+## So this is the problem that HTML5 set out to solve: to provide a standardized API, implemented natively and consistently in multiple browsers, without having to rely on third-party plugins.
+# So what is HTML5 Storage? 
+- a way for web pages to store named key/value pairs locally, within the client web browser. Unlike cookies, this data is never transmitted to the remote web server . Unlike all previous attempts at providing persistent local storage, it is implemented natively in web browsers, so it is available even when third-party browser plugins are not.
+# HTML5 STORAGE SUPPORT
+- From your JavaScript code, you’ll access HTML5 Storage through the localStorage object on the global window object. detect whether the browser supports it.
+1.  check for HTML5 Storage
+2. USING HTML5 STORAGE
+   - HTML5 Storage is based on named key/value pairs. You store data based on a named key, then you can retrieve that data with the same key.
+3. TRACKING CHANGES TO THE HTML5 STORAGE AREA
+   - If you want to keep track programmatically of when the storage area changes, you can trap the storage event. The storage event is fired on the window object whenever setItem(), removeItem(), or clear() is called and actually changes something.
+# LIMITATIONS IN CURRENT BROWSERS
+  - storage limits, in order of importance, are “5 megabytes,” “QUOTA_EXCEEDED_ERR,” and “no.”
+  - “5 megabytes” is how much storage space each origin gets by default. This is surprisingly consistent across browsers,. If you’re storing a lot of integers or floats, the difference in representation can really add up. Each digit in that float is being stored as a character, not in the usual representation of a floating point number.  
+# BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS
+- One vision is an acronym that you probably know already: SQL. In 2007, Google launched Gears, an open source cross-browser plugin which included an embedded database based on SQLite. This early prototype later influenced the creation of the Web SQL Database specification. Web SQL Database (formerly known as “WebDB”) provides a thin wrapper around a SQL database.
