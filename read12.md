@@ -41,7 +41,8 @@
   - arcTo(x1, y1, x2, y2, radius)
  # Applying styles and colors
 
-***brif conclosion***
+###### ***brif conclosion***
+
 | fillStyle = color   | Sets the style used when filling shapes                |
 | ------------------- | ------------------------------------------------------ |
 | strokeStyle = color | Sets the style for shapes' outlines.                   |
