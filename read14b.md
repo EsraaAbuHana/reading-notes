@@ -1,0 +1,14 @@
+- Read in this Article 
+# What Google Learned From Its Quest to Build the Perfect Team :
+- *By Charles Duhigg*
+We all find ourselves in a team, whether it is a functional field or another, what should we do or how to act. This article presents a study on this topic.
+Dealing well, presenting ideas and sharing them, putting the team’s interest ahead of the personal interest is important to produce better results.
+# First: Many companies focus on analyzing and studying individuals to increase their effectiveness and productivity at work. This study gives indications about the personality of the individual and how he can adapt with the rest of the individuals and how effective he is to integrate into a team, in other words when forming a work team, the personal differences between Individuals to ensure good adaptation between them to produce the best results.
+# Second: The ideal team, the idea that the ideal team should bring together the best people is completely wrong. The importance lies in the harmony of the people of the African with each other and filling the gap of weakness within the team. Each member has his interests, hobbies, and reference backgrounds that distinguish each individual.
+## As I mentioned previously, taking advantage of the strengths within individuals and directing them for the benefit of the team, the distribution of tasks among the team members and the brainstorming that takes place in discussing any idea or problem, all these points increase the flexibility of performance, and thus good results.
+# Third: average social sensitivity.
+## 1.Equality in distribution of conversational turn-taking:
+- This prevents group performance from dwindling as everyone takes their chance to speak, on others, leadership shifted among teammates from assignment to assignment.
+## 2.having average social sensitivity: 
+- guessing how others are feeling and knowing what is going on in their head based on their appearance, such as tone of voice, eyes, gestures, is a really good skill that enables team members to know when others are experiencing distress or something.
+These two factors increase the comfort of interacting with team members, and it creates a safe space for you to take risks.
