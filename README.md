@@ -1,7 +1,7 @@
 # Reading Notes
 - ***This website contains Markdown files for the Reads requirements for the various courses of the Code Fellows Software Development Program.***
 - ***You can browse any file through the following lists for each course.***
-# 
+>
 ## Code 102 - Intro to Software Development
 ### Table of Reads
 >
@@ -23,7 +23,7 @@
 > |Read07:Programming with JavaScript       |[Read07](https://esraaabuhana.github.io/Read07/)                |
 > |Lab08:Operators and Loops                |[Lab08](https://esraaabuhana.github.io/lab04/)                  |
 > |Read08:Operators and Loops               |[Read08](https://esraaabuhana.github.io/Read08/)                |
-# 
+>
 ## Code 201 - Foundations of Software Development
 ### Table of Reads
 >
@@ -36,7 +36,7 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
-# 
+>
 ## Code 401 - Advanced Software Development
 ### Table of Reads
 >
