@@ -8,6 +8,11 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
+>
+## Code 201 - Foundations of Software Development
+### Table of Reads
+> | Assignment                              | Location                                                       |
+> | ----------------------------------------|----------------------------------------------------------------|
 > | Lab01b:Growith Mindest                  |[gorwith mindest]( https://esraaabuhana.github.io/reading-notes/growth-mindset)        |
 > | Read01:Learning Markdown                |[Read01](https://esraaabuhana.github.io/Read01/)                |
 > |Read02: summarized for class 02          |[Read02](https://esraaabuhana.github.io/read2/)                 |
@@ -24,12 +29,7 @@
 > |Lab08:Operators and Loops                |[Lab08](https://esraaabuhana.github.io/lab04/)                  |
 > |Read08:Operators and Loops               |[Read08](https://esraaabuhana.github.io/Read08/)                |
 >
-## Code 201 - Foundations of Software Development
-### Table of Reads
->
->
-> | Assignment                              | Location                                                       |
-> | ----------------------------------------|----------------------------------------------------------------|
+
 ## Code 301 - Intermediate Software Development
 ### Table of Reads
 >
