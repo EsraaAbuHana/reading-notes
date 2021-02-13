@@ -2,11 +2,18 @@
 - ***This website contains Markdown files for the Reads requirements for the various courses of the Code Fellows Software Development Program.***
 - ***You can browse any file through the following lists for each course.***
 >
-## Code 102 - Intro to Software Development
+## Code 301 - Intermediate Software Development
 ### Table of Reads
 >
 >
+>
 > | Assignment                              | Location                                                       |
+> | ----------------------------------------|----------------------------------------------------------------|
+> |Read: 01|[]()|
+
+## Code 102 - Intro to Software Development
+### Table of Reads
+>> | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
 >
 ## Code 201 - Foundations of Software Development
@@ -30,13 +37,6 @@
 > |Read08:Operators and Loops               |[Read08](https://esraaabuhana.github.io/Read08/)                |
 >
 
-## Code 301 - Intermediate Software Development
-### Table of Reads
->
->
-> | Assignment                              | Location                                                       |
-> | ----------------------------------------|----------------------------------------------------------------|
->
 ## Code 401 - Advanced Software Development
 ### Table of Reads
 >
