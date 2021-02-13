@@ -9,13 +9,9 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
-> |Read: 01|[]()|
+> |Read: 01 - SMACSS and Responsive Web Design|[]()|
 
-## Code 102 - Intro to Software Development
-### Table of Reads
->> | Assignment                              | Location                                                       |
-> | ----------------------------------------|----------------------------------------------------------------|
->
+
 ## Code 201 - Foundations of Software Development
 ### Table of Reads
 > | Assignment                              | Location                                                       |
@@ -43,3 +39,9 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
+>
+## Code 102 - Intro to Software Development
+### Table of Reads
+> | Assignment                              | Location                                                       |
+> | ----------------------------------------|----------------------------------------------------------------|
+>
