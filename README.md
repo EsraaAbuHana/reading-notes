@@ -9,7 +9,9 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
-> |Read: 01 - SMACSS and Responsive Web Design|[]()|
+> |Read: 01 |[SMACSS and Responsive Web Design](https://esraaabuhana.github.io/reading-notes/read01-301)|
+> |Read: 02 |[jQuery, Events, and The DOM](https://esraaabuhana.github.io/reading-notes/read2-301)|
+> |Read: 03 |[Flexbox and Templating](https://esraaabuhana.github.io/reading-notes/read03-301)|
 
 
 ## Code 201 - Foundations of Software Development
