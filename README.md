@@ -22,8 +22,8 @@
 > |Read: 11 |[EJS](https://esraaabuhana.github.io/reading-notes/read11-301)|
 > |Read: 12 |[Compone](https://esraaabuhana.github.io/reading-notes/read12-301)|
 > |Read: 13 |[Update/Delete](https://esraaabuhana.github.io/reading-notes/read13-301)|
-> |Read: 14 |[DB Normalizatio](https://esraaabuhana.github.io/reading-notes/read04-301)|
-> |Read: 15 |[Diversity and Inclusion](https://esraaabuhana.github.io/reading-notes/read04-301)|
+> |Read: 14 |[DB Normalizatio](https://esraaabuhana.github.io/reading-notes/read14-301)|
+> |Read: 15 |[Diversity and Inclusion](https://esraaabuhana.github.io/reading-notes/read15-301)|
 
 
 
