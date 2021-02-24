@@ -15,6 +15,18 @@
 > |Read: 04 |[RWD and Regular Expressions](https://esraaabuhana.github.io/reading-notes/read04)|
 > |Read: 05 |[ Heroku Deployment](https://esraaabuhana.github.io/reading-notes/read05-301)|
 > |Read: 06 |[Node, Express, and APIs](https://esraaabuhana.github.io/reading-notes/read06-301)|
+> |Read: 07 |[APIs continued](https://esraaabuhana.github.io/reading-notes/read07-301)|
+> |Read: 08 |[SQL](https://esraaabuhana.github.io/reading-notes/read08-301)|
+> |Read: 09 |[Refactoring](https://esraaabuhana.github.io/reading-notes/read09-301)|
+> |Read: 10 |[The Call Stack and Debugging](https://esraaabuhana.github.io/reading-notes/read10-301)|
+> |Read: 11 |[EJS](https://esraaabuhana.github.io/reading-notes/read11-301)|
+> |Read: 12 |[Compone](https://esraaabuhana.github.io/reading-notes/read12-301)|
+> |Read: 13 |[Update/Delete](https://esraaabuhana.github.io/reading-notes/read13-301)|
+> |Read: 14 |[DB Normalizatio](https://esraaabuhana.github.io/reading-notes/read04-301)|
+> |Read: 15 |[Diversity and Inclusion](https://esraaabuhana.github.io/reading-notes/read04-301)|
+
+
+
 
 
 ## Code 201 - Foundations of Software Development
