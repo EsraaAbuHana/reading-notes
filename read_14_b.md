@@ -1,7 +1,7 @@
-## For now I am focused on these three Project Ideas.
+## For now I am focused on these four Project Ideas.
 
-- ***A web application that allows any client who wants to create a web application or something similar. The project is presented in stages and parts. Anyone specialized in the field of software development can book and accomplish a task for a sum of money.***
 -  ***An application is directed for domestic or international tourists and citizens who looking for a small investment, to provide a reservation service for rent one room or more to stay inside the homes of citizens.***
+-  ***A web application that allows any client who wants to create a web application or something similar. The project is presented in stages and parts. Anyone specialized in the field of software development can book and accomplish a task for a sum of money.***
 - ***An application directed at companies and investors in general, to provide consulting based on data science and data analysis to improve and develop professional and financial performance.***
 
 - ***An application that provides demand and supply service for professions, combining various professional references, focusing on day laborers and craftsmen.***
