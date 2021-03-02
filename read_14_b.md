@@ -1,4 +1,4 @@
-## For now I am focused on these four Project Ideas.
+## For now I have got these four Project Ideas.
 
 -  ***An application is directed for domestic or international tourists and citizens who looking for a small investment, to provide a reservation service for rent one room or more to stay inside the homes of citizens.***
 -  ***A web application that allows any client who wants to create a web application or something similar. The project is presented in stages and parts. Anyone specialized in the field of software development can book and accomplish a task for a sum of money.***
