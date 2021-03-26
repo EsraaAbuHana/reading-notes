@@ -8,8 +8,52 @@
 >
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
-> |||
->
+> |Read: 01 |[Java Basics](https://esraaabuhana.github.io/reading-notes/401-read01)|
+> |Read: 02 |[Arrays, Loops, Imports](https://esraaabuhana.github.io/reading-notes/401-read02)|
+> |Read: 03 |[Maps, primitives, File I/O](https://esraaabuhana.github.io/reading-notes/401-read03)|
+> |Read: 04 |[OOP](https://esraaabuhana.github.io/reading-notes/401-read04)|
+> |Read: 05 |[---](https://esraaabuhana.github.io/reading-notes/401-read05)|
+> |Read: 06 |[Inheritance and Interfaces](https://esraaabuhana.github.io/reading-notes/401-read06)|
+> |Read: 07 |[Inheritance day 2](https://esraaabuhana.github.io/reading-notes/401-read07)|
+> |Read: 08 |[OO Design](https://esraaabuhana.github.io/reading-notes/401-read08)|
+> |Read: 09 |[WRRC and Java](https://esraaabuhana.github.io/reading-notes/401-read09)|
+> |Read: 10 |[---](https://esraaabuhana.github.io/reading-notes/401-read10)|
+> |Read: 11 |[Spring](https://esraaabuhana.github.io/reading-notes/401-read11)|
+> |Read: 12 |[Spring RESTful Routing & Static Files](https://esraaabuhana.github.io/reading-notes/401-read12)|
+> |Read: 13 |[Related Resources and Integration Testing](https://esraaabuhana.github.io/reading-notes/401-read13)|
+> |Read: 14 |[--](https://esraaabuhana.github.io/reading-notes/401-read14)|
+> |Read: 15 |[--](https://esraaabuhana.github.io/reading-notes/401-read15)|
+> |Read: 16 |[Spring Authentication](https://esraaabuhana.github.io/reading-notes/401-read16)|
+> |Read: 17 |[Spring Authorization](https://esraaabuhana.github.io/reading-notes/401-read17)|
+> |Read: 18 |[Web App Security](https://esraaabuhana.github.io/reading-notes/401-read18)|
+> |Read: 19 |[Spring and Sockets](https://esraaabuhana.github.io/reading-notes/401-read19)|
+> |Read: 20 |[---](https://esraaabuhana.github.io/reading-notes/401-read20)|
+> |Read: 21 |[---](https://esraaabuhana.github.io/reading-notes/401-read21)|
+> |Read: 22 |[---](https://esraaabuhana.github.io/reading-notes/401-read22)|
+> |Read: 23 |[---](https://esraaabuhana.github.io/reading-notes/401-read23)|
+> |Read: 24 |[---](https://esraaabuhana.github.io/reading-notes/401-read24)|
+> |Read: 25 |[---](https://esraaabuhana.github.io/reading-notes/401-read25)|
+> |Read: 26 |[ Android Fundamentals](https://esraaabuhana.github.io/reading-notes/401-read26)|
+> |Read: 27 |[ Intents, Activities, and SharedPreferences](https://esraaabuhana.github.io/reading-notes/401-read27)|
+> |Read: 28 |[RecyclerView](https://esraaabuhana.github.io/reading-notes/401-read28)|
+> |Read: 29 |[Room](https://esraaabuhana.github.io/reading-notes/401-read29)|
+> |Read: 30 |[---](https://esraaabuhana.github.io/reading-notes/401-read30)|
+> |Read: 31 |[Espresso](https://esraaabuhana.github.io/reading-notes/401-read31)|
+> |Read: 32 |[Serverless and Amplify](https://esraaabuhana.github.io/reading-notes/401-read32)|
+> |Read: 33 |[GraphQL @connection](https://esraaabuhana.github.io/reading-notes/401-read33)|
+> |Read: 34 |[Amplify with Cognito for Login](https://esraaabuhana.github.io/reading-notes/401-read34)|
+> |Read: 35 |[---](https://esraaabuhana.github.io/reading-notes/401-read35)|
+> |Read: 36 |[ Cognito](https://esraaabuhana.github.io/reading-notes/401-read36)|
+> |Read: 37 |[S3](https://esraaabuhana.github.io/reading-notes/401-read37)|
+> |Read: 38 |[Notifications](https://esraaabuhana.github.io/reading-notes/401-read38)|
+> |Read: 39 |[Kinesis](https://esraaabuhana.github.io/reading-notes/401-read39)|
+> |Read: 40 |[---](https://esraaabuhana.github.io/reading-notes/401-read40)|
+> |Read: 41 |[Intent Filters](https://esraaabuhana.github.io/reading-notes/401-read41)|
+> |Read: 42 |[Location](https://esraaabuhana.github.io/reading-notes/401-read42)|
+> |Read: 43 |[Kinesis & Analytics](https://esraaabuhana.github.io/reading-notes/401-read43)|
+> |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
+> 
+
 ## Code 301 - Intermediate Software Development
 ### Table of Reads
 >
