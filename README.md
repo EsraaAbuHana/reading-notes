@@ -106,7 +106,7 @@
 ## Code 102 - Intro to Software Development
 ### Table of Reads
 >
-> | Assignment                              | Location                                                       |
-> | ----------------------------------------|----------------------------------------------------------------|
+> | Assignment| Location  |
+> |-----------|-----------|
 > |Read01||
 > 
