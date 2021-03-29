@@ -2,7 +2,7 @@
 
 |---|Compiled|interpreted |
 |---|--------|--------|
-|how to work|converted directly into machine code that the processor can execute|Interpreters run through a program line by line and execute each command.|Interpreters run through a program line by line and execute each command.|
+|how to work|converted directly into machine code that the processor can execute|Interpreters run through a program line by line and execute each command.|
 |speed|faster and more efficient to execute|slower.But, with the development of just-in-time compilation, that gap is shrinking|
 |need a “build” step |need to be manually compiled first. You need to “rebuild” the program every time you need to make a change||
 ||give the developer more control over hardware aspects, like memory management and CPU usage||
