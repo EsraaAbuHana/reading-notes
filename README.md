@@ -54,9 +54,10 @@
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
 > |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
-> |Read: Linked Lists|[Linked Lists](https://esraaabuhana.github.io/reading-notes/401-Linked-Lists)|
+> |Read: Linked Lists|[Linked Lists](https://esraaabuhana.github.io/reading-notes/401-Linked%20Lists)|
 > |Read: Stacks & Queues|[Stacks & Queues](https://esraaabuhana.github.io/reading-notes/401-Stacks-&-Queues)|
 > |Read: Trees|[Trees](https://esraaabuhana.github.io/reading-notes/401-Trees)|
+> |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 
 ## Code 301 - Intermediate Software Development
 ### Table of Reads
@@ -105,7 +106,6 @@
 > |Read07:Programming with JavaScript       |[Read07](https://esraaabuhana.github.io/Read07/)                |
 > |Lab08:Operators and Loops                |[Lab08](https://esraaabuhana.github.io/lab04/)                  |
 > |Read08:Operators and Loops               |[Read08](https://esraaabuhana.github.io/Read08/)                |
-> |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 >
 >
 ## Code 102 - Intro to Software Development
