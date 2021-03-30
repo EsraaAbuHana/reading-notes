@@ -52,7 +52,11 @@
 > |Read: 42 |[Location](https://esraaabuhana.github.io/reading-notes/401-read42)|
 > |Read: 43 |[Kinesis & Analytics](https://esraaabuhana.github.io/reading-notes/401-read43)|
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
-> 
+> |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
+> |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
+> |Read: Linked Lists|[Linked Lists]()|
+> |Read: Stacks & Queues|[Stacks & Queues]()|
+> |Read: Trees|[Trees]()|
 
 ## Code 301 - Intermediate Software Development
 ### Table of Reads
