@@ -53,11 +53,28 @@ Some of the languages that make use of JIT compilation are Java, C#, Pypy (alter
  - Dead
 - We also learned about synchronization between threads, which help the application to run smoothly.
 - Multithreading makes many more application tasks easier.
+
+# [Multithreading in Java?](https://www.guru99.com/multithreading-java.html#:~:text=MULTITHREADING%20in%20Java%20is%20a,runs%20parallel%20to%20each%20other)
+## What is it?
+- Is a process of executing two or more threads simultaneously to maximum utilization of CPU.
+## How its work?
+- Multithreaded applications execute two or more threads run concurrently.Known as Concurrency in Java.
+- Each thread runs parallel to each other.
+## why use it ?
+- Mulitple threads don't allocate separate memory area.
+- they save memory.
+- context switching between threads takes less time.
+## Advantages of multithread:
+
+- The users are not blocked because threads are independent, and we can perform multiple operations at times
+- As such the threads are independent, the other threads won't get affected if one thread meets an exception.
+# ![](https://i.stack.imgur.com/m0upc.jpg)
+# ![](https://www.scientecheasy.com/wp-content/uploads/2020/07/java-object-lock.png)
+
+# Code Conventions for the Java Programming Language: 9. Naming Conventions
 # Naming conventions
 
 # Interpreted vs Compiled Programming Languages: What's the Difference?
 # What is the difference between a compiled and an interpreted program?
-# Multithreading in Java Tutorial with Examples
-# Code Conventions for the Java Programming Language: 9. Naming Conventions
 
 
