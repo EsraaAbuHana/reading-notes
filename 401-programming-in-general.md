@@ -66,15 +66,15 @@ Some of the languages that make use of JIT compilation are Java, C#, Pypy (alter
 - context switching between threads takes less time.
 ## Advantages of multithread:
 
-- The users are not blocked because threads are independent, and we can perform multiple operations at times
+- The users are not blocked because threads are independent, and we can perform multiple operations at times.
 - As such the threads are independent, the other threads won't get affected if one thread meets an exception.
 # ![](https://i.stack.imgur.com/m0upc.jpg)
 # ![](https://www.scientecheasy.com/wp-content/uploads/2020/07/java-object-lock.png)
 
-# Code Conventions for the Java Programming Language: 9. Naming Conventions
+# Code Conventions for the Java Programming Language: 9.Naming Conventions
 # Naming conventions
 
-# Interpreted vs Compiled Programming Languages: What's the Difference?
-# What is the difference between a compiled and an interpreted program?
+# Interpreted vs Compiled Programming Languages: What's the Difference ?
+# What is the difference between a compiled and an interpreted program ?
 
 
