@@ -12,7 +12,7 @@
 > |Read: 02 |[Arrays, Loops, Imports](https://esraaabuhana.github.io/reading-notes/401-read02)|
 > |Read: 03 |[Maps, primitives, File I/O](https://esraaabuhana.github.io/reading-notes/401-read03)|
 > |Read: 04 |[OOP](https://esraaabuhana.github.io/reading-notes/401-read04)|
-> |Read: 05 |[---](https://esraaabuhana.github.io/reading-notes/401-read05)|
+> |Read: 05 |[Linked Lists](https://esraaabuhana.github.io/reading-notes/401-read05)|
 > |Read: 06 |[Inheritance and Interfaces](https://esraaabuhana.github.io/reading-notes/401-read06)|
 > |Read: 07 |[Inheritance day 2](https://esraaabuhana.github.io/reading-notes/401-read07)|
 > |Read: 08 |[OO Design](https://esraaabuhana.github.io/reading-notes/401-read08)|
@@ -54,7 +54,6 @@
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
 > |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
-> |Read: Linked Lists|[Linked Lists](https://esraaabuhana.github.io/reading-notes/401-Linked%20Lists)|
 > |Read: Stacks & Queues|[Stacks & Queues](https://esraaabuhana.github.io/reading-notes/401-Stacks-&-Queues)|
 > |Read: Trees|[Trees](https://esraaabuhana.github.io/reading-notes/401-Trees)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
