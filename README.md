@@ -17,7 +17,7 @@
 > |Read: 07 |[Inheritance day 2](https://esraaabuhana.github.io/reading-notes/401-read07)|
 > |Read: 08 |[OO Design](https://esraaabuhana.github.io/reading-notes/401-read08)|
 > |Read: 09 |[WRRC and Java](https://esraaabuhana.github.io/reading-notes/401-read09)|
-> |Read: 10 |[---](https://esraaabuhana.github.io/reading-notes/401-read10)|
+> |Read: 10 |[Stacks & Queues](https://esraaabuhana.github.io/reading-notes/401-read10)|
 > |Read: 11 |[Spring](https://esraaabuhana.github.io/reading-notes/401-read11)|
 > |Read: 12 |[Spring RESTful Routing & Static Files](https://esraaabuhana.github.io/reading-notes/401-read12)|
 > |Read: 13 |[Related Resources and Integration Testing](https://esraaabuhana.github.io/reading-notes/401-read13)|
