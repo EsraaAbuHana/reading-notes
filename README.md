@@ -54,7 +54,6 @@
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
 > |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
-> |Read: Stacks & Queues|[Stacks & Queues](https://esraaabuhana.github.io/reading-notes/401-Stacks-&-Queues)|
 > |Read: Trees|[Trees](https://esraaabuhana.github.io/reading-notes/401-Trees)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 
