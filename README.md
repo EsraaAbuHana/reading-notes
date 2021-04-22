@@ -21,8 +21,8 @@
 > |Read: 11 |[Spring](https://esraaabuhana.github.io/reading-notes/401-read11)|
 > |Read: 12 |[Spring RESTful Routing & Static Files](https://esraaabuhana.github.io/reading-notes/401-read12)|
 > |Read: 13 |[Related Resources and Integration Testing](https://esraaabuhana.github.io/reading-notes/401-read13)|
-> |Read: 14 |[--](https://esraaabuhana.github.io/reading-notes/401-read14)|
-> |Read: 15 |[--](https://esraaabuhana.github.io/reading-notes/401-read15)|
+> |Read: 14 |[No Read For This Lab](https://esraaabuhana.github.io/reading-notes/401-read14)|
+> |Read: 15 |[Trees](https://esraaabuhana.github.io/reading-notes/401-read15)|
 > |Read: 16 |[Spring Authentication](https://esraaabuhana.github.io/reading-notes/401-read16)|
 > |Read: 17 |[Spring Authorization](https://esraaabuhana.github.io/reading-notes/401-read17)|
 > |Read: 18 |[Web App Security](https://esraaabuhana.github.io/reading-notes/401-read18)|
@@ -54,7 +54,6 @@
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
 > |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
-> |Read: Trees|[Trees](https://esraaabuhana.github.io/reading-notes/401-Trees)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 
 ## Code 301 - Intermediate Software Development
