@@ -27,12 +27,6 @@
 > |Read: 17 |[Spring Authorization](https://esraaabuhana.github.io/reading-notes/401-read17)|
 > |Read: 18 |[Web App Security](https://esraaabuhana.github.io/reading-notes/401-read18)|
 > |Read: 19 |[Spring and Sockets](https://esraaabuhana.github.io/reading-notes/401-read19)|
-> |Read: 20 |[---](https://esraaabuhana.github.io/reading-notes/401-read20)|
-> |Read: 21 |[---](https://esraaabuhana.github.io/reading-notes/401-read21)|
-> |Read: 22 |[---](https://esraaabuhana.github.io/reading-notes/401-read22)|
-> |Read: 23 |[---](https://esraaabuhana.github.io/reading-notes/401-read23)|
-> |Read: 24 |[---](https://esraaabuhana.github.io/reading-notes/401-read24)|
-> |Read: 25 |[---](https://esraaabuhana.github.io/reading-notes/401-read25)|
 > |Read: 26 |[ Android Fundamentals](https://esraaabuhana.github.io/reading-notes/401-read26)|
 > |Read: 27 |[ Intents, Activities, and SharedPreferences](https://esraaabuhana.github.io/reading-notes/401-read27)|
 > |Read: 28 |[RecyclerView](https://esraaabuhana.github.io/reading-notes/401-read28)|
