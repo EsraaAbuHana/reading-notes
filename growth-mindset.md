@@ -10,5 +10,3 @@
 #
 > all the things that I have just mention them above could not be happened by my own or even you, each one of us has his or her unique by the strengthens and weakness points,  only doing relations and communicating, and of course *the power of the word "TEAM”* what show the best of us.
  
- list of content 
- [read3](https://esraaabuhana.github.io/Reade03/)
