@@ -102,10 +102,10 @@
 ### Table of Reads
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
-> | Lab01b:Growith Mindest                  |[gorwith mindest]( https://esraaabuhana.github.io/reading-notes/growth-mindset)|
+> | Lab01b:Growith Mindest                  |[gorwith mindest](https://esraaabuhana.github.io/reading-notes/growth-mindset)|
 > | Read01:Learning Markdown                |[Read01](https://esraaabuhana.github.io/reading-notes/102-read01)|
 > |Read02: summarized for class 02          |[Read02](https://esraaabuhana.github.io/reading-notes/102-read02)|
-> | Read03:Revisions and the Cloud          |[Read03]((https://esraaabuhana.github.io/reading-notes/102-read03)|
+> | Read03:Revisions and the Cloud          |[Read03](https://esraaabuhana.github.io/reading-notes/102-read03)|
 > | Lab04:Structure web pages with HTML     |[Lab04](https://esraaabuhana.github.io/lab04/)                  |
 > |Read04:Structure web pages with HTML     |[Read04](https://esraaabuhana.github.io/reading-notes/102-read04)|
 > |Lab05:Design web pages with CSS          |[Lab05](https://esraaabuhana.github.io/lab04/)                  |
