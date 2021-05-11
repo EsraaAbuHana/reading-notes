@@ -112,7 +112,7 @@
 > |Read05:Design web pages with CSS         |[Read05](https://esraaabuhana.github.io/design_web_with_CSS.md/)|
 > |Lab06:Activate web pages with JavaScript |[Lab06](https://esraaabuhana.github.io/lab04/)                  |
 > |Read06a:Dynamic web pages with JavaScript|[Read06a](https://esraaabuhana.github.io/practice-js/)          |
-> |Read06b:Computer Architecture and Logic  |[Read06b](https://esraaabuhana.github.io/reading-notes/102-read04b)|
+> |Read06b:Computer Architecture and Logic  |[Read06b](https://esraaabuhana.github.io/reading-notes/102-read06b)|
 > |Lab07:Programming with JavaScript        |[Lab07](https://esraaabuhana.github.io/lab04/)                  |
 > |Read07:Programming with JavaScript       |[Read07](https://esraaabuhana.github.io/reading-notes/102-read07)|
 > |Lab08:Operators and Loops                |[Lab08](https://esraaabuhana.github.io/lab04/)                  |
