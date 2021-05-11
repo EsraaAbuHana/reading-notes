@@ -109,7 +109,7 @@
 > | Lab04:Structure web pages with HTML     |[Lab04](https://esraaabuhana.github.io/lab04/)                  |
 > |Read04:Structure web pages with HTML     |[Read04](https://esraaabuhana.github.io/reading-notes/102-read04)|
 > |Lab05:Design web pages with CSS          |[Lab05](https://esraaabuhana.github.io/lab04/)                  |
-> |Read05:Design web pages with CSS         |[Read05](https://esraaabuhana.github.io/102-read05)|
+> |Read05:Design web pages with CSS         |[Read05](https://esraaabuhana.github.io/reading-notes/102-read05)|
 > |Lab06:Activate web pages with JavaScript |[Lab06](https://esraaabuhana.github.io/lab04/)                  |
 > |Read06a:Dynamic web pages with JavaScript|[Read06a](https://esraaabuhana.github.io/practice-js/)          |
 > |Read06b:Computer Architecture and Logic  |[Read06b](https://esraaabuhana.github.io/reading-notes/102-read06b)|
