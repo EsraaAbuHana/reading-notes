@@ -58,9 +58,9 @@
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
 > |Read: 01 |[SMACSS and Responsive Web Design](https://esraaabuhana.github.io/reading-notes/read01-301)|
-> |Read: 02 |[jQuery, Events, and The DOM](https://esraaabuhana.github.io/reading-notes/read2-301)|
+> |Read: 02 |[jQuery, Events, and The DOM](https://esraaabuhana.github.io/reading-notes/read02-301)|
 > |Read: 03 |[Flexbox and Templating](https://esraaabuhana.github.io/reading-notes/read03-301)|
-> |Read: 04 |[RWD and Regular Expressions](https://esraaabuhana.github.io/reading-notes/read04)|
+> |Read: 04 |[RWD and Regular Expressions](https://esraaabuhana.github.io/reading-notes/read04-301)|
 > |Read: 05 |[ Heroku Deployment](https://esraaabuhana.github.io/reading-notes/read05-301)|
 > |Read: 06 |[Node, Express, and APIs](https://esraaabuhana.github.io/reading-notes/read06-301)|
 > |Read: 07 |[APIs continued](https://esraaabuhana.github.io/reading-notes/read07-301)|
@@ -71,7 +71,7 @@
 > |Read: 12 |[Compone](https://esraaabuhana.github.io/reading-notes/read12-301)|
 > |Read: 13 |[Update/Delete](https://esraaabuhana.github.io/reading-notes/read13-301)|
 > |Read: 14 a|[DB Normalizatio](https://esraaabuhana.github.io/reading-notes/read14-301)|
-> |Read: 14 b|[Project Ideas](https://esraaabuhana.github.io/reading-notes/read_14_b)|
+> |Read: 14 b|[Project Ideas](https://esraaabuhana.github.io/reading-notes/read_14_b-301)|
 > |Read: 15 |[Diversity and Inclusion](https://esraaabuhana.github.io/reading-notes/read15-301)|
 
 ## Code 201 - Foundations of Software Development
@@ -79,7 +79,21 @@
 >
 > | Assignment| Location  |
 > |-----------|-----------|
-> |Read01||
+> |Read: 01|[Introductory HTML and JavaScript](https://esraaabuhana.github.io/reading-notes/201-read01)|
+> |Read: 02|[HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://esraaabuhana.github.io/reading-notes/201-read02)|
+> |Read: 03|[HTML Lists, Control Flow with JS, and the CSS Box Model](https://esraaabuhana.github.io/reading-notes/201-read03)|
+> |Read: 04|[HTML Links, CSS Layout, JS Functions](https://esraaabuhana.github.io/reading-notes/201-read04)|
+> |Read: 05|[HTML Images, CSS Color & Text](https://esraaabuhana.github.io/reading-notes/201-read05)|
+> |Read: 06|[JS Object Literals; The DOM](https://esraaabuhana.github.io/reading-notes/201-read06)|
+> |Read: 07|[HTML Tables, JS Constructor Functions](https://esraaabuhana.github.io/reading-notes/201-read07)|
+> |Read: 08|[More CSS Layout](https://esraaabuhana.github.io/reading-notes/201-read08)|
+> |Read: 09|[Forms and Events](https://esraaabuhana.github.io/reading-notes/201-read09)|
+> |Read: 10|[JS Debugging](https://esraaabuhana.github.io/reading-notes/201-read10)|
+> |Read: 11|[Assorted Topics](https://esraaabuhana.github.io/reading-notes/201-read11)|
+> |Read: 12|[Docs for the HTML`<canvas>` Element & Chart.js](https://esraaabuhana.github.io/reading-notes/201-read12)|
+> |Read: 13|[Local Storage](https://esraaabuhana.github.io/reading-notes/201-read13)|
+> |Read: 14a|[CSS Transforms, Transitions, and Animations](https://esraaabuhana.github.io/reading-notes/201-read14a)|
+> |Read: 14b|[ What Google Learned About Teams](https://esraaabuhana.github.io/reading-notes/201-read14b)|
 > 
 
 
