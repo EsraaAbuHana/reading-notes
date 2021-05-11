@@ -74,11 +74,17 @@
 > |Read: 14 b|[Project Ideas](https://esraaabuhana.github.io/reading-notes/read_14_b)|
 > |Read: 15 |[Diversity and Inclusion](https://esraaabuhana.github.io/reading-notes/read15-301)|
 
-
-
-
-
 ## Code 201 - Foundations of Software Development
+### Table of Reads
+>
+> | Assignment| Location  |
+> |-----------|-----------|
+> |Read01||
+> 
+
+
+
+## Code 102 - Intro to Software Development
 ### Table of Reads
 > | Assignment                              | Location                                                       |
 > | ----------------------------------------|----------------------------------------------------------------|
@@ -99,10 +105,5 @@
 > |Read08:Operators and Loops               |[Read08](https://esraaabuhana.github.io/Read08/)                |
 >
 >
-## Code 102 - Intro to Software Development
-### Table of Reads
->
-> | Assignment| Location  |
-> |-----------|-----------|
-> |Read01||
-> 
+
+
