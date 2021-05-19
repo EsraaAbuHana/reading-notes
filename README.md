@@ -31,7 +31,7 @@
 > |Read: 27 |[ Intents, Activities, and SharedPreferences](https://esraaabuhana.github.io/reading-notes/401-read27)|
 > |Read: 28 |[RecyclerView](https://esraaabuhana.github.io/reading-notes/401-read28)|
 > |Read: 29 |[Room](https://esraaabuhana.github.io/reading-notes/401-read29)|
-> |Read: 30 |[---](https://esraaabuhana.github.io/reading-notes/401-read30)|
+> |Read: 30 |[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-read30)|
 > |Read: 31 |[Espresso](https://esraaabuhana.github.io/reading-notes/401-read31)|
 > |Read: 32 |[Serverless and Amplify](https://esraaabuhana.github.io/reading-notes/401-read32)|
 > |Read: 33 |[GraphQL @connection](https://esraaabuhana.github.io/reading-notes/401-read33)|
@@ -47,7 +47,6 @@
 > |Read: 43 |[Kinesis & Analytics](https://esraaabuhana.github.io/reading-notes/401-read43)|
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
-> |Read: Hash Tables|[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-Hash-Tables)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 
 ## Code 301 - Intermediate Software Development
