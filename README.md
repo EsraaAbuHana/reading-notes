@@ -21,7 +21,7 @@
 > |Read: 11 |[Spring](https://esraaabuhana.github.io/reading-notes/401-read11)|
 > |Read: 12 |[Spring RESTful Routing & Static Files](https://esraaabuhana.github.io/reading-notes/401-read12)|
 > |Read: 13 |[Related Resources and Integration Testing](https://esraaabuhana.github.io/reading-notes/401-read13)|
-> |Read: 14 |[No Read For This Lab](https://esraaabuhana.github.io/reading-notes/401-read14)|
+> |Read: 14 |No Read For This Lab|
 > |Read: 15 |[Trees](https://esraaabuhana.github.io/reading-notes/401-read15)|
 > |Read: 16 |[Spring Authentication](https://esraaabuhana.github.io/reading-notes/401-read16)|
 > |Read: 17 |[Spring Authorization](https://esraaabuhana.github.io/reading-notes/401-read17)|
