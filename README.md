@@ -27,8 +27,8 @@
 > |Read: 17 |[Spring Authorization](https://esraaabuhana.github.io/reading-notes/401-read17)|
 > |Read: 18 |[Web App Security](https://esraaabuhana.github.io/reading-notes/401-read18)|
 > |Read: 19 |[Spring and Sockets](https://esraaabuhana.github.io/reading-notes/401-read19)|
-> |Read: 26 |[ Android Fundamentals](https://esraaabuhana.github.io/reading-notes/401-read26)|
-> |Read: 27 |[ Intents, Activities, and SharedPreferences](https://esraaabuhana.github.io/reading-notes/401-read27)|
+> |Read: 26 |[Android Fundamentals](https://esraaabuhana.github.io/reading-notes/401-read26)|
+> |Read: 27 |[Intents, Activities, and SharedPreferences](https://esraaabuhana.github.io/reading-notes/401-read27)|
 > |Read: 28 |[RecyclerView](https://esraaabuhana.github.io/reading-notes/401-read28)|
 > |Read: 29 |[Room](https://esraaabuhana.github.io/reading-notes/401-read29)|
 > |Read: 30 |[Hash Tables](https://esraaabuhana.github.io/reading-notes/401-read30)|
@@ -36,8 +36,8 @@
 > |Read: 32 |[Serverless and Amplify](https://esraaabuhana.github.io/reading-notes/401-read32)|
 > |Read: 33 |[GraphQL @connection](https://esraaabuhana.github.io/reading-notes/401-read33)|
 > |Read: 34 |[Amplify with Cognito for Login](https://esraaabuhana.github.io/reading-notes/401-read34)|
-> |Read: 35 |[---](https://esraaabuhana.github.io/reading-notes/401-read35)|
-> |Read: 36 |[ Cognito](https://esraaabuhana.github.io/reading-notes/401-read36)|
+> |Read: 35 |[Graphs](https://esraaabuhana.github.io/reading-notes/401-read35)|
+> |Read: 36 |[Cognito](https://esraaabuhana.github.io/reading-notes/401-read36)|
 > |Read: 37 |[S3](https://esraaabuhana.github.io/reading-notes/401-read37)|
 > |Read: 38 |[Notifications](https://esraaabuhana.github.io/reading-notes/401-read38)|
 > |Read: 39 |[Kinesis](https://esraaabuhana.github.io/reading-notes/401-read39)|
@@ -46,7 +46,6 @@
 > |Read: 42 |[Location](https://esraaabuhana.github.io/reading-notes/401-read42)|
 > |Read: 43 |[Kinesis & Analytics](https://esraaabuhana.github.io/reading-notes/401-read43)|
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
-> |Read: Graphs|[Graphs](https://esraaabuhana.github.io/reading-notes/401-Graphs)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
 
 ## Code 301 - Intermediate Software Development
