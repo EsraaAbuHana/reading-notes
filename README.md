@@ -47,6 +47,8 @@
 > |Read: 43 |[Kinesis & Analytics](https://esraaabuhana.github.io/reading-notes/401-read43)|
 > |Read: 44 |[Monetization](https://esraaabuhana.github.io/reading-notes/401-read44)|
 > |Prep:programming in general|[programming in general](https://esraaabuhana.github.io/reading-notes/401-programming-in-general)|
+> |Prep:Ethics in Tech|[Ethics in Tech](https://esraaabuhana.github.io/reading-notes/ethics-in-tech)|
+
 
 ## Code 301 - Intermediate Software Development
 ### Table of Reads
